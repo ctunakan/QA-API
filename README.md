@@ -1,6 +1,8 @@
-# QA-API
-API for questions & answers portion of Atelier backend
+# Atelier QA-API
+API for questions & answers portion of Atelier backend. This repository is packaged as a whole for convenience and includes the ETL scripts to load database data and the API server itself. 
 
+## Tech Stack
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Postgres ETL
 Please run node ETLpostgres.js to import csv files
